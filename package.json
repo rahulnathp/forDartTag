@@ -1,0 +1,19 @@
+{
+  "name": "fordarttag",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "node": "^21.2.0",
+    "node-bin-setup": "^1.1.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start":"node index.js",
+    "migrateRings": "node index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
